@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939379188062",
+    "firebase_url": "https://juliusz-lewacki.firebaseio.com",
+    "project_id": "juliusz-lewacki",
+    "storage_bucket": "juliusz-lewacki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939379188062:android:df6933ddb5b511c53b6fcf",
+        "android_client_info": {
+          "package_name": "pl.LorisStudio.JuliuszLewacki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939379188062-je27lmu3pli5l8rirfhck71bck0hbbnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNtqJ694M2FGdBUsrNczpzHq8cW8eshY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939379188062-je27lmu3pli5l8rirfhck71bck0hbbnf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939379188062-1niago1mh6nlekm14a46vr0uiuns9ef9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pl.LorisStudio.JuliuszLewacki"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
